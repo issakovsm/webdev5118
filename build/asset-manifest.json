@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kbtuapp/static/css/main.073c9b0a.css",
+    "main.js": "/kbtuapp/static/js/main.71a0f208.js",
+    "static/js/787.7efd31bd.chunk.js": "/kbtuapp/static/js/787.7efd31bd.chunk.js",
+    "static/media/logo.svg": "/kbtuapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kbtuapp/index.html",
+    "main.073c9b0a.css.map": "/kbtuapp/static/css/main.073c9b0a.css.map",
+    "main.71a0f208.js.map": "/kbtuapp/static/js/main.71a0f208.js.map",
+    "787.7efd31bd.chunk.js.map": "/kbtuapp/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.71a0f208.js"
+  ]
+}
